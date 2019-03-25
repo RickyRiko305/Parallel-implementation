@@ -1,0 +1,7 @@
+C:\Users\Asus\Desktop\parallel_lab_5\2_2.cpp: In function 'void elu(int, int&)':
+C:\Users\Asus\Desktop\parallel_lab_5\2_2.cpp:22:15: error: a function-definition is not allowed here before '{' token
+ int32_t main(){
+               ^
+C:\Users\Asus\Desktop\parallel_lab_5\2_2.cpp:54:1: error: expected '}' at end of input
+ }
+ ^
